@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  advice_ID: 1
+  student_ID: 1
+  course_ID: 1
+  note: MyText
+  date: 2021-09-11
+
+two:
+  advice_ID: 1
+  student_ID: 1
+  course_ID: 1
+  note: MyText
+  date: 2021-09-11
