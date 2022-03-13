@@ -1,2 +1,0 @@
-class Enrolment < ApplicationRecord
-end
